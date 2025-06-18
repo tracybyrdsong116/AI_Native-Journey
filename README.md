@@ -30,7 +30,16 @@ cd AI_Native-Journey
 
 ## Usage
 
-[Usage instructions will be added as the project develops]
+### Hello World Script
+The `web/hello_world.py` script is a simple interactive program that:
+• Asks users to type their name when they run the program
+• Creates a friendly welcome message that includes their name and a rocket emoji
+• Shows two messages: a personalized greeting with the user's name and a welcome message to the AI Native Journey
+
+To run the script:
+```bash
+python web/hello_world.py
+```
 
 ## Contributing
 
