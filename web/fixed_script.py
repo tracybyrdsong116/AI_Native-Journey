@@ -12,6 +12,6 @@ favorite_number = int(input("Great! What's your favorite number? "))
 
 print(f"Nice to meet you, {user_name}! I'm Tracy!")
 # Attempt to calculate a lucky number
-lucky_number = favorite_number * 2
+lucky_number = 40
 print(f"Your lucky number is: {lucky_number}")
 print("Have a great day from Tracy!")
